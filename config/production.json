@@ -1,0 +1,10 @@
+{
+    "name": "",
+    "host": "",
+    "assetsBaseUrl": "",
+    "port": 3000,
+    "DataBase_Name": "",
+    "DB_URI":"",
+    "jwtPrivateKey": "ert33",
+    "authorization": true
+  }
